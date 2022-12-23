@@ -1,8 +1,8 @@
-<h1>3 Boyutlu Top</h1>
+<h1>3D Ball Game/h1>
 
 
 
-<p>HTML CSS JAVASCRİP 3 BOYUTLU</p>
+<p>HTML CSS JAVASCRİPT 3D Ball Game/p>
 
 
 <img src="oyun.gif">
